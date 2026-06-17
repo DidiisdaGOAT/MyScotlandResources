@@ -5,3 +5,10 @@
     background-position: center;
     background-size: cover;
 }
+.hero-text{
+    color: whitesmoke;
+    position: absolute;
+    text-align: center;
+    top: 280px;
+    width: 100%;
+}
